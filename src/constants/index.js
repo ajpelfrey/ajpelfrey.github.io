@@ -42,30 +42,30 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Back-end Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Front-end Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "SQL",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Product Engineer",
     icon: creator,
   },
 ];
 
 const technologies = [
   {
-    name: "HTML 5",
+    name: "Java",
     icon: html,
   },
   {
-    name: "CSS 3",
+    name: "C++",
     icon: css,
   },
   {
@@ -81,11 +81,11 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
+    name: "mySQL",
     icon: redux,
   },
   {
-    name: "Tailwind CSS",
+    name: "SpringBoot",
     icon: tailwind,
   },
   {
@@ -116,11 +116,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Software Developer Intern",
+    company_name: "World Fuel Services ",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "June 2022 - August 2022",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,11 +129,11 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
+    title: "IT Software Developer I",
     company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "June 2021 - November 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
