@@ -50,6 +50,8 @@ const About = () => {
         I'm a skilled software developer with experience in Java, C++, Angular, TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js, and
         Three.js. I'm passionate about working on innovative ideas across all sectors of technology.
+        alexanderjamespelfrey@gmail.com
+      
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

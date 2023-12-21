@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "SQL",
+    title: "Database Management",
     icon: backend,
   },
   {
@@ -81,7 +81,7 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "redux",
+    name: "C++",
     icon: redux,
   },
   {
@@ -93,7 +93,7 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
+    name: "Java",
     icon: mongodb,
   },
   {
@@ -149,19 +149,7 @@ const experiences = [
 
     ],
   },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  
 ];
 
 const testimonials = [
@@ -193,22 +181,15 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "N dollar recognizer",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Used N-dollar algorithm to be able to properly identify over 40 strokes, a stroke being a drawn shape, number, or design from a mouse, or stylus or touch screen",
     tags: [
       {
-        name: "react",
+        name: "Python",
         color: "blue-text-gradient",
       },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
+     
     ],
     image: carrent,
     source_code_link: "https://github.com/",
